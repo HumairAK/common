@@ -52,7 +52,6 @@ orgs:
       - SankBad
       - schwesig
       - Shreyanand
-      - sindhuvahinis
       - skanthed
       - thegreymanshow
       - slntpts
@@ -251,17 +250,15 @@ orgs:
         repos:
           community: admin
           community-handbook: admin
-      contributors-core:
+      triagers:
         description:
-          The operate-first contributor team consists of all org members that
-          are core contributors.
+          The operate-first team that is able to triage.
         maintainers:
           - goern
           - tumido
           - HumairAK
         members:
           - 4n4nd
-          - apoorvam
           - Gregory-Pereira
           - MichaelClifford
           - Shreyanand
@@ -278,7 +275,6 @@ orgs:
           - ipolonsk
           - isabelizimm
           - larsks
-          - laxmisravyarudraraju
           - leihchen
           - margarethaley
           - martinpovolny
@@ -286,14 +282,11 @@ orgs:
           - mimotej
           - oindrillac
           - PARTHSONI95
-          - slntpts
           - quaid
           - rbo
           - schwesig
           - sindhuvahinis
-          - slntpts
           - suppathak
-          - thegreymanshow
         privacy: closed
         repos:
           SRE: triage
